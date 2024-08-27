@@ -1,1 +1,1 @@
-
+ base de datos PostgreSQL utilizando @vercel/postgres. Si ya está familiarizado con PostgreSQL y prefiere utilizar su propio proveedor, puede omitir este capítulo y configurarlo por su cuenta. De lo contrario, ¡continuemos!
